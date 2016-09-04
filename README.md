@@ -1,2 +1,2 @@
-# awesome-Bangladesh
-A curated list of awesome libraries and packages from Bangladesh 
+# Awesome Bangladesh
+A curated list of awesome projects from Bangladesh 
